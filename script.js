@@ -1,4 +1,5 @@
 document.getElementById("counter-number").innerHTML = 0;
+let counter = 0;
 
 function incrementCounter() {
     counter++;
